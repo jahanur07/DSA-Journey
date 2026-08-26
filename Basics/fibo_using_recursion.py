@@ -5,3 +5,4 @@ def fibo(n):
 
 ans=fibo(6)
 print(ans)
+

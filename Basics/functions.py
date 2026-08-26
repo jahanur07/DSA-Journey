@@ -1,0 +1,12 @@
+#using function sum two number 
+
+def sum(num1,num2):
+  result=num1+num2
+  
+  
+  
+  return result
+
+
+
+print(sum(3,5))

@@ -27,6 +27,15 @@
         "documentation": {}
     },
     {
+        "label": "sum",
+        "kind": 2,
+        "importPath": "Basics.functions",
+        "description": "Basics.functions",
+        "peekOfCode": "def sum(num1,num2):\n  result=num1+num2\n  return result\nprint(sum(3,5))",
+        "detail": "Basics.functions",
+        "documentation": {}
+    },
+    {
         "label": "ju",
         "kind": 2,
         "importPath": "Leetcode.palindrom",
