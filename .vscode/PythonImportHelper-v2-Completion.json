@@ -18,6 +18,15 @@
         "documentation": {}
     },
     {
+        "label": "largesubarrsum",
+        "kind": 2,
+        "importPath": "Arrays & String.kadane",
+        "description": "Arrays & String.kadane",
+        "peekOfCode": "def largesubarrsum(num):\n  maxsum=0\n  currsum=0\n  start=0\n  end=0\n  n=len(num)\n  while end < n:\n    if \nnum=[3,2,1,3,-3,1,-4,6]",
+        "detail": "Arrays & String.kadane",
+        "documentation": {}
+    },
+    {
         "label": "fibo",
         "kind": 2,
         "importPath": "Basics.fibo_using_recursion",
