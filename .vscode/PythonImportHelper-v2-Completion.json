@@ -1,5 +1,23 @@
 [
     {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
         "label": "collections",
         "kind": 6,
         "isExtraImport": true,
@@ -15,6 +33,15 @@
         "importPath": "queue",
         "description": "queue",
         "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "#formula",
+        "kind": 5,
+        "importPath": "100 practice common questions.p5",
+        "description": "100 practice common questions.p5",
+        "peekOfCode": "#formula = 1km = 0.621371 miles\nkm=float(input(\"Enter the km : \"))\nmiles=0.621371*km\nprint(f\"the miles is {miles}\")",
+        "detail": "100 practice common questions.p5",
         "documentation": {}
     },
     {
