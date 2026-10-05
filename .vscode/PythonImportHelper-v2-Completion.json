@@ -36,6 +36,33 @@
         "documentation": {}
     },
     {
+        "label": "temp",
+        "kind": 5,
+        "importPath": "100 practice common questions.p13",
+        "description": "100 practice common questions.p13",
+        "peekOfCode": "temp = (celsius * (9/5)) + 32\nprint(temp)",
+        "detail": "100 practice common questions.p13",
+        "documentation": {}
+    },
+    {
+        "label": "fact",
+        "kind": 2,
+        "importPath": "100 practice common questions.p14",
+        "description": "100 practice common questions.p14",
+        "peekOfCode": "def fact(a):\n  if a == 0:\n    return 1\n  else:\n    return (a * fact(a-1))\nnum=int(input(\"Enter the number : \"))\nresult=fact(num)\nprint(f\"the factiorial of {num} is {result}\")",
+        "detail": "100 practice common questions.p14",
+        "documentation": {}
+    },
+    {
+        "label": "table",
+        "kind": 2,
+        "importPath": "100 practice common questions.p15",
+        "description": "100 practice common questions.p15",
+        "peekOfCode": "def table(num):\n  for i in range(1,11):\n    print(f\"{num} x {i} = {num*i}\")\nnum=int(input(\"Enter the table number : \"))\ntable(num)",
+        "detail": "100 practice common questions.p15",
+        "documentation": {}
+    },
+    {
         "label": "#formula",
         "kind": 5,
         "importPath": "100 practice common questions.p5",
