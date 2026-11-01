@@ -31,7 +31,7 @@ for i in range(1,int(sqrt(n))+1):
     factor.append(i)
     if n//i != i:
       factor.append(n//i)
-      
+factor.sort()
 print(factor)
      
      
