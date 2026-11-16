@@ -27,13 +27,13 @@ A practical record of my problem-solving journey using **Python** — from funda
 <!-- PROGRESS:START -->
 <div align="center">
 
-# 0%
+# 6%
 
-**0 of 0 topics completed**
+**18 of 279 topics completed**
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<sub>Progress is recalculated automatically when I commit checklist updates.</sub>
+<sub>Automatically refreshed after checklist updates.</sub>
 
 </div>
 <!-- PROGRESS:END -->
@@ -46,7 +46,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 15 stages from beginner to advanced. Expand a stage to view its topics. Mark a topic complete only after you understand the approach and can implement it yourself.
 
 <details>
-<summary id="stage-01"><strong>Stage 01 · Problem-solving foundations & complexity</strong></summary>
+<summary id="stage-01"><strong>Stage 01 · Problem-solving foundations & complexity</strong> <sub>7/27 complete</sub></summary>
 
 **Programming foundations for DSA**
 - [x] Variables, input and output
@@ -84,7 +84,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-02"><strong>Stage 02 · Arrays</strong></summary>
+<summary id="stage-02"><strong>Stage 02 · Arrays</strong> <sub>2/26 complete</sub></summary>
 
 **Array fundamentals**
 - [x] Traverse an array
@@ -117,7 +117,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-03"><strong>Stage 03 · Strings</strong></summary>
+<summary id="stage-03"><strong>Stage 03 · Strings</strong> <sub>3/18 complete</sub></summary>
 
 - [x] String traversal and indexing
 - [x] Reverse a string
@@ -141,7 +141,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-04"><strong>Stage 04 · Hashing & frequency maps</strong></summary>
+<summary id="stage-04"><strong>Stage 04 · Hashing & frequency maps</strong> <sub>1/12 complete</sub></summary>
 
 - [x] Frequency counting with a dictionary
 - [ ] Hashing concepts and hash functions
@@ -159,7 +159,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-05"><strong>Stage 05 · Two pointers</strong></summary>
+<summary id="stage-05"><strong>Stage 05 · Two pointers</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Opposite-direction two pointers
 - [ ] Same-direction two pointers
@@ -175,7 +175,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-06"><strong>Stage 06 · Sliding window</strong></summary>
+<summary id="stage-06"><strong>Stage 06 · Sliding window</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Fixed-size sliding window
 - [ ] Variable-size sliding window
@@ -191,7 +191,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-07"><strong>Stage 07 · Searching & sorting</strong></summary>
+<summary id="stage-07"><strong>Stage 07 · Searching & sorting</strong> <sub>0/22 complete</sub></summary>
 
 **Searching**
 - [ ] Linear search
@@ -222,7 +222,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-08"><strong>Stage 08 · Recursion & backtracking</strong></summary>
+<summary id="stage-08"><strong>Stage 08 · Recursion & backtracking</strong> <sub>2/18 complete</sub></summary>
 
 **Recursion**
 - [x] Factorial using recursion
@@ -249,7 +249,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-09"><strong>Stage 09 · Linked lists</strong></summary>
+<summary id="stage-09"><strong>Stage 09 · Linked lists</strong> <sub>0/16 complete</sub></summary>
 
 - [ ] Singly linked list structure
 - [ ] Create and traverse a linked list
@@ -271,7 +271,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-10"><strong>Stage 10 · Stacks & queues</strong></summary>
+<summary id="stage-10"><strong>Stage 10 · Stacks & queues</strong> <sub>3/19 complete</sub></summary>
 
 **Stacks**
 - [x] Stack using Python list
@@ -299,7 +299,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-11"><strong>Stage 11 · Trees & binary search trees</strong></summary>
+<summary id="stage-11"><strong>Stage 11 · Trees & binary search trees</strong> <sub>0/20 complete</sub></summary>
 
 - [ ] Tree terminology and representations
 - [ ] Binary tree node implementation
@@ -325,7 +325,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-12"><strong>Stage 12 · Heaps & priority queues</strong></summary>
+<summary id="stage-12"><strong>Stage 12 · Heaps & priority queues</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Min heap and max heap concepts
 - [ ] Heapify operation
@@ -341,7 +341,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-13"><strong>Stage 13 · Graphs</strong></summary>
+<summary id="stage-13"><strong>Stage 13 · Graphs</strong> <sub>0/20 complete</sub></summary>
 
 - [ ] Graph terminology and representations
 - [ ] Adjacency matrix and adjacency list
@@ -367,7 +367,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-14"><strong>Stage 14 · Greedy algorithms & dynamic programming</strong></summary>
+<summary id="stage-14"><strong>Stage 14 · Greedy algorithms & dynamic programming</strong> <sub>0/29 complete</sub></summary>
 
 **Greedy**
 - [ ] Greedy strategy and proof intuition
@@ -405,7 +405,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-15"><strong>Stage 15 · Bit manipulation, tries & interview practice</strong></summary>
+<summary id="stage-15"><strong>Stage 15 · Bit manipulation, tries & interview practice</strong> <sub>0/22 complete</sub></summary>
 
 **Bit manipulation**
 - [ ] Binary number representation
