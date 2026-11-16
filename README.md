@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:7C3AED,100:2563EB&height=190&section=header&text=Data%20Structures%20%26%20Algorithms&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Data Structures and Algorithms banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:4F46E5,100:06B6D4&height=220&section=header&text=DSA%20MASTERY%20ROADMAP&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20STRUCTURES%20%E2%80%A2%20ALGORITHMS%20%E2%80%A2%20PROBLEM%20SOLVING&descAlignY=60&descSize=13" width="100%" alt="DSA mastery roadmap banner"/>
 
-# 🧠 DSA Journey
+# 🧠 My DSA Journey
 
-### Think clearly · Code consistently · Solve efficiently
+### From writing my first loop to solving advanced algorithmic problems.
 
-A practical record of my problem-solving journey using **Python** — from fundamentals and complexity analysis to advanced data structures, algorithms and interview-style problems.
+I am documenting my problem-solving journey in **Python** — learning concepts, practising patterns, analysing complexity, and preparing for software engineering interviews.
 
-[![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Practice](https://img.shields.io/badge/Focus-Problem%20Solving-16A34A?style=flat-square)](#learning-roadmap)
-[![Roadmap](https://img.shields.io/badge/Roadmap-Structured-7C3AED?style=flat-square)](#learning-roadmap)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=for-the-badge)](#learning-roadmap)
+[![Learning](https://img.shields.io/badge/Learning-In%20Progress-0891B2?style=for-the-badge)](#my-dsa-progress)
 
 </div>
 
 ---
 
-## 🧭 Quick navigation
+## 🧭 Explore the roadmap
 
-| Fundamentals | Core patterns | Advanced topics |
+| 🟢 Foundations | 🔵 Problem-solving patterns | 🟣 Advanced DSA |
 |---|---|---|
-| [Complexity](#stage-01) · [Arrays](#stage-02) · [Strings](#stage-03) · [Hashing](#stage-04) | [Two Pointers](#stage-05) · [Sliding Window](#stage-06) · [Searching & Sorting](#stage-07) · [Recursion](#stage-08) | [Linked Lists](#stage-09) · [Stacks & Queues](#stage-10) · [Trees](#stage-11) · [Heaps](#stage-12) · [Graphs](#stage-13) · [Greedy & DP](#stage-14) · [More](#stage-15) |
+| [Complexity](#stage-01) · [Arrays](#stage-02) · [Strings](#stage-03) · [Hashing](#stage-04) | [Two Pointers](#stage-05) · [Sliding Window](#stage-06) · [Searching & Sorting](#stage-07) · [Recursion](#stage-08) | [Linked Lists](#stage-09) · [Stacks & Queues](#stage-10) · [Trees](#stage-11) · [Heaps](#stage-12) · [Graphs](#stage-13) · [Greedy & DP](#stage-14) · [Bitwise & Interviews](#stage-15) |
 
-## 📈 My DSA progress
+## 📊 My learning dashboard
 
 <!-- PROGRESS:START -->
 <div align="center">
@@ -41,12 +41,14 @@ A practical record of my problem-solving journey using **Python** — from funda
 > [!TIP]
 > To record progress, edit this README, change a completed task from `- [ ]` to `- [x]`, and commit to `main`. GitHub Actions updates the overall percentage and stage counts. Checkboxes in the rendered README are not clickable toggles.
 
-## 🗺️ Learning roadmap
+## 🗺️ The complete DSA roadmap
 
-15 stages from beginner to advanced. Expand a stage to view its topics. Mark a topic complete only after you understand the approach and can implement it yourself.
+**15 structured stages · 279 learning checkpoints · Beginner to interview-ready**
+
+Open each section to explore the concepts and tick off topics as you master them. Focus on understanding the pattern, not just memorising a solution.
 
 <details>
-<summary id="stage-01"><strong>Stage 01 · Problem-solving foundations & complexity</strong> <sub>7/27 complete</sub></summary>
+<summary id="stage-01"><strong>🧱 Stage 01 · Foundations & Complexity</strong> <sub>7/27 complete</sub></summary>
 
 **Programming foundations for DSA**
 - [x] Variables, input and output
@@ -84,7 +86,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-02"><strong>Stage 02 · Arrays</strong> <sub>2/26 complete</sub></summary>
+<summary id="stage-02"><strong>📦 Stage 02 · Arrays</strong> <sub>2/26 complete</sub></summary>
 
 **Array fundamentals**
 - [x] Traverse an array
@@ -117,7 +119,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-03"><strong>Stage 03 · Strings</strong> <sub>3/18 complete</sub></summary>
+<summary id="stage-03"><strong>🔤 Stage 03 · Strings</strong> <sub>3/18 complete</sub></summary>
 
 - [x] String traversal and indexing
 - [x] Reverse a string
@@ -141,7 +143,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-04"><strong>Stage 04 · Hashing & frequency maps</strong> <sub>1/12 complete</sub></summary>
+<summary id="stage-04"><strong>🗂️ Stage 04 · Hashing</strong> <sub>1/12 complete</sub></summary>
 
 - [x] Frequency counting with a dictionary
 - [ ] Hashing concepts and hash functions
@@ -159,7 +161,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-05"><strong>Stage 05 · Two pointers</strong> <sub>0/10 complete</sub></summary>
+<summary id="stage-05"><strong>👆 Stage 05 · Two Pointers</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Opposite-direction two pointers
 - [ ] Same-direction two pointers
@@ -175,7 +177,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-06"><strong>Stage 06 · Sliding window</strong> <sub>0/10 complete</sub></summary>
+<summary id="stage-06"><strong>🪟 Stage 06 · Sliding Window</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Fixed-size sliding window
 - [ ] Variable-size sliding window
@@ -191,7 +193,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-07"><strong>Stage 07 · Searching & sorting</strong> <sub>0/22 complete</sub></summary>
+<summary id="stage-07"><strong>🔎 Stage 07 · Searching & Sorting</strong> <sub>0/22 complete</sub></summary>
 
 **Searching**
 - [ ] Linear search
@@ -222,7 +224,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-08"><strong>Stage 08 · Recursion & backtracking</strong> <sub>2/18 complete</sub></summary>
+<summary id="stage-08"><strong>🌀 Stage 08 · Recursion & Backtracking</strong> <sub>2/18 complete</sub></summary>
 
 **Recursion**
 - [x] Factorial using recursion
@@ -249,7 +251,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-09"><strong>Stage 09 · Linked lists</strong> <sub>0/16 complete</sub></summary>
+<summary id="stage-09"><strong>🔗 Stage 09 · Linked Lists</strong> <sub>0/16 complete</sub></summary>
 
 - [ ] Singly linked list structure
 - [ ] Create and traverse a linked list
@@ -271,7 +273,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-10"><strong>Stage 10 · Stacks & queues</strong> <sub>3/19 complete</sub></summary>
+<summary id="stage-10"><strong>📚 Stage 10 · Stacks & Queues</strong> <sub>3/19 complete</sub></summary>
 
 **Stacks**
 - [x] Stack using Python list
@@ -299,7 +301,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-11"><strong>Stage 11 · Trees & binary search trees</strong> <sub>0/20 complete</sub></summary>
+<summary id="stage-11"><strong>🌳 Stage 11 · Trees & BST</strong> <sub>0/20 complete</sub></summary>
 
 - [ ] Tree terminology and representations
 - [ ] Binary tree node implementation
@@ -325,7 +327,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-12"><strong>Stage 12 · Heaps & priority queues</strong> <sub>0/10 complete</sub></summary>
+<summary id="stage-12"><strong>⛰️ Stage 12 · Heaps & Priority Queues</strong> <sub>0/10 complete</sub></summary>
 
 - [ ] Min heap and max heap concepts
 - [ ] Heapify operation
@@ -341,7 +343,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-13"><strong>Stage 13 · Graphs</strong> <sub>0/20 complete</sub></summary>
+<summary id="stage-13"><strong>🕸️ Stage 13 · Graphs</strong> <sub>0/20 complete</sub></summary>
 
 - [ ] Graph terminology and representations
 - [ ] Adjacency matrix and adjacency list
@@ -367,7 +369,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-14"><strong>Stage 14 · Greedy algorithms & dynamic programming</strong> <sub>0/29 complete</sub></summary>
+<summary id="stage-14"><strong>🧠 Stage 14 · Greedy & Dynamic Programming</strong> <sub>0/29 complete</sub></summary>
 
 **Greedy**
 - [ ] Greedy strategy and proof intuition
@@ -405,7 +407,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 </details>
 
 <details>
-<summary id="stage-15"><strong>Stage 15 · Bit manipulation, tries & interview practice</strong> <sub>0/22 complete</sub></summary>
+<summary id="stage-15"><strong>⚡ Stage 15 · Bit Manipulation, Tries & Interviews</strong> <sub>0/22 complete</sub></summary>
 
 **Bit manipulation**
 - [ ] Binary number representation
@@ -439,7 +441,7 @@ A practical record of my problem-solving journey using **Python** — from funda
 
 ---
 
-## 📂 My current practice
+## 💻 My coding practice
 
 These are existing folders and files found in this repository. The checklist above is a roadmap; a file being present does not automatically mean the topic is mastered.
 
@@ -453,7 +455,7 @@ These are existing folders and files found in this repository. The checklist abo
 | [Tree](Tree/) | Starting folder for tree practice |
 | [Leetcode](Leetcode/) | LeetCode practice files |
 
-## 🧩 My problem-solving routine
+## 🔁 My problem-solving workflow
 
 1. Understand the problem and constraints.
 2. Write a simple brute-force solution.
@@ -463,7 +465,7 @@ These are existing folders and files found in this repository. The checklist abo
 6. Record the key pattern and mistakes.
 7. Re-solve the problem later without looking at the solution.
 
-## 📊 Suggested daily practice
+## ⏱️ Daily practice routine
 
 | Activity | Suggested time |
 |---|---:|
@@ -472,7 +474,7 @@ These are existing folders and files found in this repository. The checklist abo
 | Review solutions and complexity | 30 minutes |
 | Revisit previous problems | 30 minutes |
 
-## 🎯 My goal
+## 🎯 The goal
 
 Build strong problem-solving skills, understand the logic behind algorithms, and become confident in technical interviews.
 
